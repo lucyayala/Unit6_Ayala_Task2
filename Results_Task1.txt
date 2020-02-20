@@ -1,0 +1,21 @@
+Time For Run 1:0.022932
+Time for Run 2: 0.018424
+Time for Run 3:0.018976
+Average Time for Dr_T's Bubble ASC: 0.02011067
+
+Time For Run 1:0.02128
+Time for Run 2:0.021226
+Time for Run 3:0.017459
+Average Time for Dr_T's Bubble DSC : 0.01998833
+
+
+Time For Run 1:0.00153
+Time for Run 2:0.001262
+Time for Run 3:0.001404
+Average Time for Sort ASC Time : 0.00139867
+
+Time For Run 1:0.001238
+Time for Run 2:0.001469
+Time for Run 3:0.001883
+Average Time for Sort DSC Time:0.00153
+
